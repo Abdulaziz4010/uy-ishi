@@ -1,0 +1,19 @@
+.box {
+  text-align: center;
+  justify-content: center;
+}
+
+.text-content {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.box-items {
+  text-align: center;
+  display: flex;
+}
+.text {
+  text-align: start;
+  width: 400px;
+}
